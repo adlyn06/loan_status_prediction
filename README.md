@@ -35,7 +35,6 @@ Loan Amount Term,
 Credit History,
 Property Area,
 Outcome
-
 The model predicts whether a loan application is:
 Approved or
-Rejectetd
+Rejected
