@@ -38,5 +38,4 @@ Outcome
 
 The model predicts whether a loan application is:
 Approved or
-Rejected
-Rejected
+Rejectetd
