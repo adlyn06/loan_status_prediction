@@ -7,7 +7,7 @@ Pandas,
 NumPy,
 Scikit-learn,
 Matplotlib,
-Google Colab,
+Google Colab
 
 ## Project Workflow
 Data Collection and Loading,
@@ -17,7 +17,7 @@ Converting Categorical Data into Numerical Values,
 Train-Test Split,
 Model Training using Support Vector Machine (SVM),
 Model Evaluation,
-Predictive System for Loan Approval Prediction,
+Predictive System for Loan Approval Prediction
 
 ## Machine Learning Algorithm
 Support Vector Machine (SVM)
@@ -34,7 +34,7 @@ Loan Amount,
 Loan Amount Term,
 Credit History,
 Property Area,
-Outcome,
+Outcome
 
 The model predicts whether a loan application is:
 Approved or
